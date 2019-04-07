@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Companion</string>
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+    <string name="title_activity_maps">Companion</string>
+</resources>
+
